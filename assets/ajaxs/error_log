@@ -1,0 +1,32 @@
+[22-Sep-2022 14:54:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: email in /home/vuarobu1/public_html/assets/ajaxs/Auth.php on line 78
+[22-Sep-2022 15:08:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: email in /home/vuarobu1/public_html/assets/ajaxs/Auth.php on line 78
+[22-Sep-2022 18:56:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: email in /home/vuarobu1/public_html/assets/ajaxs/Auth.php on line 78
+[22-Sep-2022 20:21:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: email in /home/vuarobu1/public_html/assets/ajaxs/Auth.php on line 78
+[22-Sep-2022 20:46:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: email in /home/vuarobu1/public_html/assets/ajaxs/Auth.php on line 78
+[22-Sep-2022 21:13:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:13:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:13:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:13:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:13:40 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:13:40 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:13:43 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:13:43 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:14:09 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:14:09 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:14:30 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:14:30 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:14:52 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:14:52 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:14:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:14:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:14:56 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:14:56 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:15:20 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:15:20 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vuarobu1/public_html/config/config.php on line 33
+[22-Sep-2022 21:17:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: email in /home/vuarobu1/public_html/assets/ajaxs/Auth.php on line 78
+[26-Sep-2022 08:52:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: loaithe in /home/vuarobu1/public_html/assets/ajaxs/NapThe.php on line 7
+[26-Sep-2022 08:52:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: menhgia in /home/vuarobu1/public_html/assets/ajaxs/NapThe.php on line 8
+[26-Sep-2022 08:52:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: seri in /home/vuarobu1/public_html/assets/ajaxs/NapThe.php on line 9
+[26-Sep-2022 08:52:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: pin in /home/vuarobu1/public_html/assets/ajaxs/NapThe.php on line 10
+[26-Sep-2022 20:22:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: email in /home/vuarobu1/public_html/assets/ajaxs/Auth.php on line 78
+[27-Sep-2022 21:52:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: email in /home/vuarobu1/public_html/assets/ajaxs/Auth.php on line 78
